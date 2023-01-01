@@ -1,6 +1,6 @@
 import React, { Children } from 'react'
 
-// CSS
+
 import styles from './Modal.module.css'
 
 type Props = {

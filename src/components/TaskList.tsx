@@ -1,9 +1,9 @@
 import React from 'react'
 
-// interfaces
+
 import { ITask } from '../interfaces/Task'
 
-// CSS 
+
 import styles from './TaskList.module.css'
 
 type Props = {
