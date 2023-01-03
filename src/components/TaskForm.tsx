@@ -1,8 +1,6 @@
 import React, { useState, ChangeEvent, FormEvent, useEffect } from "react";
 
-
 import { ITask } from "../interfaces/Task";
-
 
 import styles from "./TaskForm.module.css";
 
